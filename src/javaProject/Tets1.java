@@ -8,8 +8,8 @@ public class Tets1 {
 		System.out.println(1);
 
 		
-		System.out.println("Change Branch B");
-		System.out.println("Change Branch B....");
+		System.out.println("Change Branch D1");
+		System.out.println("Change Branch D1....");
 	}
 
 }
