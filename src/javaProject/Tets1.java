@@ -7,6 +7,9 @@ public class Tets1 {
 		System.out.println("Upload branch A........");
 		System.out.println(1);
 
+		
+		System.out.println("Change Branch B");
+		System.out.println("Change Branch B....");
 	}
 
 }
